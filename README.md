@@ -19,3 +19,4 @@
 | Learning to Decode Linear Codes Using Deep Learning | NBP前传 | https://arxiv.org/abs/1607.04793 |
 | Learning to Decode: Reinforcement Learning for Decoding of Sparse Graph-Based Channel Codes  | / | https://arxiv.org/abs/2010.05637 |
 | Pruning Neural Belief Propagation Decoders  | 正在看 | https://arxiv.org/abs/2001.07464 |
+| DENOISING DIFFUSION ERROR CORRECTION CODES | / | https://openreview.net/pdf?id=rLwC0_MG-4w |
