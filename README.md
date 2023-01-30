@@ -10,7 +10,9 @@
 | Deepcode: Feedback Codes via Deep Learning | RNN，没太看懂 | https://arxiv.org/abs/1807.00801 |
 | Neural Decoding With Optimization of Node Activations | Knowledge Distillation | https://arxiv.org/abs/2206.00786?context=math.IT#:~:text=The%20problem%20of%20maximum%20likelihood,terms%20on%20the%20node's%20activations. |
 | Error Correction Code Transformer  | 没太看懂，但是好像很厉害 | https://aps.arxiv.org/abs/2203.14966 |
-
+| Pruning Neural Belief Propagation Decoders  | RNN部分没看，主要看decoder | https://arxiv.org/abs/2001.07464 |
+| An Introduction to Neural Architecture Search for Convolutional Networks | NAS介绍 | https://arxiv.org/abs/2005.11074 |
+| Neural Architecture Search with Reinforcement Learning | NAS, RL, RNN | https://arxiv.org/abs/1611.01578 |
 
 
 ## Papers I plan to read
@@ -18,6 +20,8 @@
 |  :----  | :----  | :----  |
 | Learning to Decode Linear Codes Using Deep Learning | NBP前传 | https://arxiv.org/abs/1607.04793 |
 | Learning to Decode: Reinforcement Learning for Decoding of Sparse Graph-Based Channel Codes  | / | https://arxiv.org/abs/2010.05637 |
-| Pruning Neural Belief Propagation Decoders  | 正在看 | https://arxiv.org/abs/2001.07464 |
-| DENOISING DIFFUSION ERROR CORRECTION CODES | / | https://openreview.net/pdf?id=rLwC0_MG-4w |
-| Deep Learning for Decoding of Linear Codes - A Syndrome-Based Approach | / | https://arxiv.org/abs/1802.04741 |
+| Denoising Diffusion Error Correction Codes | / | https://openreview.net/pdf?id=rLwC0_MG-4w |
+| Near Maximum Likelihood Decoding with Deep Learning | / | https://arxiv.org/abs/1801.02726 |
+| Joint Shortening and Puncturing Optimization for Structured LDPC Codes | Pruning,好像不是特别相关 | https://ieeexplore.ieee.org/document/6336859 |
+|Deep Neural Network Based Decoding of Short 5G LDPC Codes | / | https://ieeexplore.ieee.org/abstract/document/9606471 |
+| DeepSwarm Optimising Convolutional Neural Networks using Swarm Intelligence | NAS | https://arxiv.org/abs/1905.07350 |
