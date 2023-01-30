@@ -12,7 +12,7 @@
 | Error Correction Code Transformer  | 没太看懂，但是好像很厉害 | https://aps.arxiv.org/abs/2203.14966 |
 | Pruning Neural Belief Propagation Decoders  | RNN部分没看，主要看decoder | https://arxiv.org/abs/2001.07464 |
 | An Introduction to Neural Architecture Search for Convolutional Networks | NAS介绍 | https://arxiv.org/abs/2005.11074 |
-| Neural Architecture Search with Reinforcement Learning | NAS, RL, RNN | https://arxiv.org/abs/1611.01578 |
+| Neural Architecture Search with Reinforcement Learning | NAS, RNN, google brain第一篇, 成本太高 | https://arxiv.org/abs/1611.01578 |
 
 
 ## Papers I plan to read
@@ -23,5 +23,10 @@
 | Denoising Diffusion Error Correction Codes | / | https://openreview.net/pdf?id=rLwC0_MG-4w |
 | Near Maximum Likelihood Decoding with Deep Learning | / | https://arxiv.org/abs/1801.02726 |
 | Joint Shortening and Puncturing Optimization for Structured LDPC Codes | Pruning,好像不是特别相关 | https://ieeexplore.ieee.org/document/6336859 |
-|Deep Neural Network Based Decoding of Short 5G LDPC Codes | / | https://ieeexplore.ieee.org/abstract/document/9606471 |
+| Deep Neural Network Based Decoding of Short 5G LDPC Codes | / | https://ieeexplore.ieee.org/abstract/document/9606471 |
 | DeepSwarm Optimising Convolutional Neural Networks using Swarm Intelligence | NAS | https://arxiv.org/abs/1905.07350 |
+| **Efficient Neural Architecture Search via Parameter Sharing** | ENAS | https://arxiv.org/abs/1802.03268 |
+| Designing Neural Network Architectures using Reinforcement Learning | NAS | https://arxiv.org/abs/1611.02167 |
+| Neural Architecture Search: A Survey | NAS | https://arxiv.org/abs/1808.05377 |
+| Learning Transferable Architectures for Scalable Image Recognition | NAS, google brain第二篇, 成本太高 | https://arxiv.org/abs/1707.07012 |
+| **DARTS: Differentiable Architecture Search** | 好心人开源pytorch代码| https://arxiv.org/abs/1806.09055 |
